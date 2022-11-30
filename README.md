@@ -1,7 +1,8 @@
+
 ### Ola tudo bom ? 👋, Eu sou  [Gugaa](https://lvalentin.com.br)! 😁
 
 Sou formado em Ciencia da Computação, atualmente atuo como desenvolvedor na empresa Allstrategy. Aprendizado e aprimoramento de conhecimentos fazem parte do meu dia a dia.
- 
+
 
 - 🔭 Atuamente estou criando uma rede social para estudande utilizando Node Js 
 - 💬 Gosto muito de aprender coisas novas e gosto muito de musica.
@@ -9,9 +10,10 @@ Sou formado em Ciencia da Computação, atualmente atuo como desenvolvedor na em
 - 😄 Gosto muito de café
 - ⚡ Meu [Linkdin](https://www.linkedin.com/in/luiz-valter-valentin1999/)
 
+
 **linguagens e Conhecimentos:** 
 
-<p align="left">
+<div align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a> 
@@ -75,10 +77,12 @@ Sou formado em Ciencia da Computação, atualmente atuo como desenvolvedor na em
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a>
-</p>
+</div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizGVValentin1999&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGVValentin1999&layout=compact&langs_count=10&theme=dark"/>
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=LuizGVValentin1999&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGVValentin1999&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LuizGVValentin1999.LuizGVValentin1999)
+</div>

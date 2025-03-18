@@ -4,7 +4,7 @@
 Sou formado em Ciencia da Computação, atualmente atuo como desenvolvedor na empresa Allstrategy. Aprendizado e aprimoramento de conhecimentos fazem parte do meu dia a dia.
 
 
-- 🔭 Atuamente estou criando uma rede social para estudande utilizando Node Js 
+- 🔭 Atuamente estou fazendo pos graduação de deenvolvimento 360 da rocketseat
 - 💬 Gosto muito de aprender coisas novas e gosto muito de musica.
 - 📫 Meu email pessoal é luiz.gustavo1999@hotmail.com
 - 😄 Gosto muito de café
